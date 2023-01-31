@@ -92,14 +92,14 @@ body {
 .card-kg {
   position: absolute;
   bottom: 20px;
-  right: 50px;
+  right: 30px;
   text-align: center;
 }
 
 .card-kg-default {
   position: absolute;
   bottom: 20px;
-  right: 35px;
+  right: 10px;
   text-align: center;
 }
 
@@ -487,3 +487,120 @@ body {
     font-size: 21px;
   }
 }
+/*******************************/
+@media (min-width: 1101px) and (max-width: 1250px) {
+  .card_img_text_block {
+    position: absolute;
+    line-height: 30px;
+    top: 40px;
+    left: 40px;
+  }
+  .card_img_text_block div {
+    padding-bottom: 7px;
+  }
+  .card_img_text_block_title {
+    font-size: 38px;
+    font-weight: 800;
+    letter-spacing: 2px;
+  }
+  .card-kg {
+    position: absolute;
+    bottom: 25px;
+    right: 41px;
+    text-align: center;
+  }
+  .card-kg-default {
+    position: absolute;
+    bottom: 25px;
+    right: 28px;
+    text-align: center;
+  }
+  .card-kg_count {
+    font-size: 34px;
+    margin-bottom: 8px;
+  }
+  .card-kg_kg {
+    font-size: 21px;
+  }
+}
+/*******************************/
+@media (min-width: 1251px) and (max-width: 1400px) {
+  .card_img_text_block {
+    position: absolute;
+    line-height: 30px;
+    top: 50px;
+    left: 50px;
+  }
+  .card_img_text_block div {
+    padding-bottom: 11px;
+  }
+  .card_img_text_block_title {
+    font-size: 45px;
+    font-weight: 800;
+    letter-spacing: 3px;
+  }
+  .card-kg {
+    position: absolute;
+    bottom: 25px;
+    right: 61px;
+    text-align: center;
+  }
+  .card-kg-default {
+    position: absolute;
+    bottom: 25px;
+    right: 48px;
+    text-align: center;
+  }
+  .card-kg_count {
+    font-size: 34px;
+    margin-bottom: 8px;
+  }
+  .card-kg_kg {
+    font-size: 21px;
+  }
+  .card_after_text {
+    padding-top: 10px;
+    font-size: 15px;
+  }
+}
+/*******************************/
+@media (min-width: 1401px){
+  .card_img_text_block {
+    position: absolute;
+    line-height: 30px;
+    top: 50px;
+    left: 50px;
+  }
+  .card_img_text_block div {
+    padding-bottom: 11px;
+  }
+  .card_img_text_block_title {
+    font-size: 45px;
+    font-weight: 800;
+    letter-spacing: 3px;
+  }
+  .card-kg {
+    position: absolute;
+    bottom: 25px;
+    right: 91px;
+    text-align: center;
+  }
+  .card-kg-default {
+    position: absolute;
+    bottom: 25px;
+    right: 78px;
+    text-align: center;
+  }
+  .card-kg_count {
+    font-size: 34px;
+    margin-bottom: 8px;
+  }
+  .card-kg_kg {
+    font-size: 21px;
+  }
+  .card_after_text {
+    padding-top: 10px;
+    font-size: 15px;
+  }
+}
+
