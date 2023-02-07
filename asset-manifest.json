@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-react-cats/static/css/main.220bcc0f.css",
-    "main.js": "/test-react-cats/static/js/main.b031885d.js",
+    "main.css": "/test-react-cats/static/css/main.d670adf6.css",
+    "main.js": "/test-react-cats/static/js/main.10916be2.js",
     "static/media/trebuc.ttf": "/test-react-cats/static/media/trebuc.dd4a545aa34f405ec8e7.ttf",
     "static/media/Photo.png": "/test-react-cats/static/media/Photo.08a4253bbcdaab7b02cb.png",
     "static/media/Selected.png": "/test-react-cats/static/media/Selected.d2dc5de606535c33e0ff.png",
     "static/media/Disabled.png": "/test-react-cats/static/media/Disabled.639da7778569b9727c1e.png",
     "static/media/Pattern.png": "/test-react-cats/static/media/Pattern.a26c7fb067fc7332ad7d.png",
     "index.html": "/test-react-cats/index.html",
-    "main.220bcc0f.css.map": "/test-react-cats/static/css/main.220bcc0f.css.map",
-    "main.b031885d.js.map": "/test-react-cats/static/js/main.b031885d.js.map"
+    "main.d670adf6.css.map": "/test-react-cats/static/css/main.d670adf6.css.map",
+    "main.10916be2.js.map": "/test-react-cats/static/js/main.10916be2.js.map"
   },
   "entrypoints": [
-    "static/css/main.220bcc0f.css",
-    "static/js/main.b031885d.js"
+    "static/css/main.d670adf6.css",
+    "static/js/main.10916be2.js"
   ]
 }
